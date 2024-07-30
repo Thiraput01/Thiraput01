@@ -1,5 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/6bc1cbf8-8dd6-41f8-9646-6c4eb25c0561)## Hi there 👋
 
 I'm currently studying Computer Engineering at Chulalongkorn University. My primary interests lie in the fields of Artificial Intelligence and Machine Learning, as well as backend development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiraput01)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Thiraput)
