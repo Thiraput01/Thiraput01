@@ -11,19 +11,19 @@ I'm currently studying Computer Engineering at Chulalongkorn University. My prim
     Languages
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=python,js,c,cpp,scala,go,solidity"/>
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,scala,go,solidity"/>
   </div>
   <h3>
     Libraries and Frameworks
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=pytorch,react,express,redux,flask,"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,express,flask,discordjs"/>
   </div>
   <h3>
     Tools
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,npm,nodejs,mongodb,postman,aws,gcp,mysql,vercel,postgres"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,nodejs,mongodb,mysql,postgres,postman,aws,gcp,arduino"/>
   </div>
 </p>
 
