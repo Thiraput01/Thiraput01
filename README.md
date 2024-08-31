@@ -11,7 +11,7 @@ I'm currently studying Computer Engineering at Chulalongkorn University. My prim
     Languages
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,scala,go,solidity"/>
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,go,scala,solidity"/>
   </div>
   <h3>
     Libraries and Frameworks
