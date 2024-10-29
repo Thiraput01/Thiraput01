@@ -23,7 +23,7 @@ I'm currently studying Computer Engineering at Chulalongkorn University. My prim
     Tools
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,aws,gcp,arduino"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,aws,gcp,arduino,kubernetes,docker"/>
   </div>
 </p>
 
