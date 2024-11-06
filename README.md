@@ -17,7 +17,7 @@ I'm currently studying Computer Engineering at Chulalongkorn University. My prim
     Libraries and Frameworks
   </h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,express,flask"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,next,express,flask"/>
   </div>
   <h3>
     Tools
